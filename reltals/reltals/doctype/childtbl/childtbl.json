@@ -1,0 +1,42 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-06-11 15:58:33.595599",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "num",
+  "num2",
+  "result"
+ ],
+ "fields": [
+  {
+   "fieldname": "num",
+   "fieldtype": "Int",
+   "label": "num"
+  },
+  {
+   "fieldname": "num2",
+   "fieldtype": "Int",
+   "label": "num2"
+  },
+  {
+   "fieldname": "result",
+   "fieldtype": "Int",
+   "label": "Result"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-06-11 16:22:56.353278",
+ "modified_by": "Administrator",
+ "module": "Reltals",
+ "name": "childtbl",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}
